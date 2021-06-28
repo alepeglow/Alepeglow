@@ -1,6 +1,6 @@
 Ei ✌️
 Meu nome é  Alessandra Colvara de Souza.
-Estudo Análise e desenvolvimento de sistemas e quero me tornar uma desenvolvedora Front-End.
+Estudo Análise e desenvolvimento de sistemas no Senac.
 
 conhecimento 💡
 HTML
