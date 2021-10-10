@@ -32,7 +32,6 @@
   <a href="https://gitlab.com/alepeglow" ><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="20" width="55" target="_blank"/></a>
 </p>
   
-  ![Snake animation](https://github.com/alepeglow/alepeglow/blob/output/github-contribution-grid-snake.svg)
   
 ## 🖖 About
 I work with webdevelopment since 2020. Im interested in all  mobile technologies, and have been working with Front-end  all this time.
