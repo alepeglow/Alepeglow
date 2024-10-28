@@ -52,7 +52,7 @@ I work with webdevelopment since 2020. Im interested in all  mobile technologies
 
 - 📫 How to reach me **peglowalessandra@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alessandra-colvara-de-souza//](https://www.linkedin.com/in/alessandra-colvara-de-souza/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/alessandra-peglow/](https://www.linkedin.com/in/alessandra-peglow/)
 
 - ⚡ Fun fact **I'm a dog lover and a have 3 dogs and I love books. In my spare time, I enjoy reading books and fanfics and also writing them.**
 
